@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <link type="text/css" rel="stylesheet" href="index.css"/>
+    <title></title>
+  </head>
+  <body>
+  <div id="top">
+      <p id="name"><a href="http://www.imgur.com/DuX7OMV">Andrew Burgos</a></p>
+      <p id="email">Email: andrew.brgs@gmail.com</p>
+  </div>
+
+<div class="body">
+  <h4>About me</h4>
+    <p><a href="file:///home/aburgo02/Desktop/Comp20/hw1/bio.html"> Biography          </a></p>
+    <p><a href="file:///home/aburgo02/Desktop/Comp20/hw1/resume.html">Resume
+        </a></p>
+</div>
+
+
+  </body>
+</html>
